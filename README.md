@@ -66,11 +66,7 @@ LogisticRegression()
 
 VotingClassifier() (Ensemble)
 
-# Confusion Matrix Example
-    predicted
-               ham  spam
-actual ham     1213    5
-       spam      15   170
+
 
 # Evaluation Metrics
 Accuracy
