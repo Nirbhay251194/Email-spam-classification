@@ -1,5 +1,4 @@
-#Spam SMS Classifier using NLTK & Scikit-learn
-This project builds a machine learning model to classify SMS messages as spam or ham using Natural Language Processing (NLP) techniques. The dataset is processed using NLTK, and classification is done using various Scikit-learn models.
+
 # Features
 Preprocesses raw SMS data: removes punctuation, symbols, numbers, URLs, etc.
 
